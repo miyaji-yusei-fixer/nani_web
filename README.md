@@ -1,24 +1,19 @@
 # nani_web
 
-## Project setup
-```
-yarn install
-```
+## URL
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+https://miyaji-yusei-fixer.github.io/nani_web/
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### これは何ですか？
 
-### Lints and fixes files
-```
-yarn lint
-```
+ポコを押すとしゃべります。
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### なんで作ろうと思ったんですか？
+
+わかりません。
+
+<br />
+<br />
+<br />
+
+Twitter：https://twitter.com/kururun0921
